@@ -1,4 +1,4 @@
-namespace NETMicroservices
+namespace PlatformService
 {
     public class WeatherForecast
     {
