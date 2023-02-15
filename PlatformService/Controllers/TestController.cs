@@ -11,7 +11,5 @@ namespace PlatformService.Controllers
         {
             return "From Test Controller";
         }
-
-
     }
 }
